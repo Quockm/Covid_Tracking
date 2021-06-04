@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Covid Tracking</string>
+    <string name="covid_tracking">covid Tracker</string>
+    <string name="version">version 0.1</string>
 </resources>
